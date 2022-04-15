@@ -25,7 +25,7 @@ spring:
   redis:
     open: false  # 是否开启redis缓存  true开启   false关闭
     database: 0
-    host: localhost
+    host: 192.168.48.130
     port: 6379
     password:    # 密码（默认为空）
     timeout: 6000ms  # 连接超时时长（毫秒）
@@ -37,15 +37,23 @@ spring:
         min-idle: 5       # 连接池中的最小空闲连接
   mvc:
     throw-exception-if-no-handler-found: true
-  application:
-    name: renren-fast
-  cloud:
-    nacos:
-      discovery:
-        server-addr: 127.0.0.1:8848
-#  resources:
-#    add-mappings: false
-
+  #  resources:
+  #    add-mappings: false
+#  application:
+#    name: renren-fast
+#  #nacos
+#  cloud:
+#    nacos:
+#      discovery:
+#        server-addr: 127.0.0.1:8848
+#        namespace: 832ab776-1d54-4918-a459-d1ddd02279f6
+#      config:
+#        server-addr: 127.0.0.1:8848
+#        namespace: 832ab776-1d54-4918-a459-d1ddd02279f6
+#        ext-config[0]:
+#          data-id: other.yml
+#          group: DEFAULT_GROUP
+#          refresh: true
 
 #mybatis
 mybatis-plus:

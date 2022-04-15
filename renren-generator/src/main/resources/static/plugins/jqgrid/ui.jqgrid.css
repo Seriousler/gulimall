@@ -292,7 +292,7 @@ a.g-menu-item, a.soptclass, a.clearsearchclass { cursor: pointer; }
 .ui-jqgrid .ui-jqgrid-htable .ui-th-div {
 	height:17px;
 	margin-top:5px;
-	display:inline-block;
+	display:inine-block;
 }
 .column-menu, .ui-search-menu {
 	padding: 10px 10px;

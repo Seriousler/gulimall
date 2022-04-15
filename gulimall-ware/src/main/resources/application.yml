@@ -3,18 +3,14 @@ server:
 
 spring:
   datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.48.130:3306/gulimall_wms?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
     username: root
-    password: root
-    url: jdbc:mysql://192.168.56.10:3306/gulimall_wms
-    driver-class-name: com.mysql.jdbc.Driver
-
+    password: S2J9Tc)qX6uV
   cloud:
     nacos:
       discovery:
         server-addr: 127.0.0.1:8848
-  application:
-    name: gulimall-ware
-
   jackson:
     date-format: yyyy-MM-dd HH:mm:ss
 
@@ -27,4 +23,4 @@ mybatis-plus:
 
 logging:
   level:
-    com.atguigu: debug
+    com.yxj: debug

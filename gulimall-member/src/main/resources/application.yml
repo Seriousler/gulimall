@@ -1,21 +1,24 @@
+server:
+  port: 8000
+
 spring:
   datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.48.130:3306/gulimall?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
     username: root
-    password: root
-    url: jdbc:mysql://192.168.56.10:3306/gulimall_ums
-    driver-class-name: com.mysql.jdbc.Driver
+    password: S2J9Tc)qX6uV
 
-  cloud:
-    nacos:
-      discovery:
-        server-addr: 127.0.0.1:8848
+  redis:
+    host: 192.168.48.130
+    port: 6379
+    password:
+  session:
+    store-type: redis
+  thymeleaf:
+    cache: false
 
-  application:
-    name: gulimall-member
 mybatis-plus:
   mapper-locations: classpath:/mapper/**/*.xml
   global-config:
     db-config:
       id-type: auto
-server:
-  port: 8000
