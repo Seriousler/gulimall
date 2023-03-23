@@ -8,7 +8,7 @@ import org.springframework.session.data.redis.config.annotation.web.http.EnableR
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 /**
  * 整合redis作为session存储

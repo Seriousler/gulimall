@@ -8,7 +8,7 @@ import javax.validation.constraints.Pattern;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Data
 public class UserRegisterVo {

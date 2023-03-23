@@ -7,7 +7,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Configuration
 public class GulimallWebConfig implements WebMvcConfigurer {

@@ -3,7 +3,7 @@ package com.yxj.gulimall.search.vo;
 import com.baomidou.mybatisplus.annotation.TableField;
 import lombok.Data;
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Data
 public class AttrResponseVo {

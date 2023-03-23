@@ -2,7 +2,7 @@ package com.yxj.gulimall.cart.exception;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 public class CartExceptionHandler extends RuntimeException {
 }

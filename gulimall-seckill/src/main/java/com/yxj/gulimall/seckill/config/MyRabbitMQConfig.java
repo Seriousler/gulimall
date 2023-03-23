@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Configuration
 public class MyRabbitMQConfig {

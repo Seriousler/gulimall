@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 public final class HTMLFilter {
 

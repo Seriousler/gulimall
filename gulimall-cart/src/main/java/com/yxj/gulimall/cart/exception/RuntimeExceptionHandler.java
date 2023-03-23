@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @ControllerAdvice
 public class RuntimeExceptionHandler {

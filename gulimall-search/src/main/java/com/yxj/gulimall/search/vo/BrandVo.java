@@ -2,7 +2,7 @@ package com.yxj.gulimall.search.vo;
 
 import lombok.Data;
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Data
 public class BrandVo {

@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 public class PageUtils implements Serializable {
 	private static final long serialVersionUID = 1L;

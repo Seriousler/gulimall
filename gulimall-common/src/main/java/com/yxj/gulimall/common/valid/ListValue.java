@@ -6,7 +6,7 @@ import java.lang.annotation.*;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Documented
 @Constraint(

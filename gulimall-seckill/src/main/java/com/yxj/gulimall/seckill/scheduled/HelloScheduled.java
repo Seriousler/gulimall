@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
  *      2、@Async：给希望异步执行的方法标注
  */
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Slf4j
 @Component

@@ -17,7 +17,7 @@ import java.util.concurrent.ExecutionException;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Controller
 public class CartController {

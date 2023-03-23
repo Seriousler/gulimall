@@ -10,7 +10,7 @@ package com.yxj.gulimall.common.utils;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 public class Constant {
 	/** 超级管理员ID */

@@ -5,7 +5,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @ConfigurationProperties(prefix = "gulimall.thread")
 @Data

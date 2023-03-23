@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Data
 public class SearchParam {

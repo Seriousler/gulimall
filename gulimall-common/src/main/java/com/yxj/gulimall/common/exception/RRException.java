@@ -10,7 +10,7 @@ package com.yxj.gulimall.common.exception;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 public class RRException extends RuntimeException {
 	private static final long serialVersionUID = 1L;

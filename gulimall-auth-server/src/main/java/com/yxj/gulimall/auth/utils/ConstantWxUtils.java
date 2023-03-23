@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Component
 public class ConstantWxUtils implements InitializingBean {

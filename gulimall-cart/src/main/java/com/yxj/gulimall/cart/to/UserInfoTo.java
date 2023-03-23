@@ -5,7 +5,7 @@ import lombok.Data;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Data
 public class UserInfoTo {

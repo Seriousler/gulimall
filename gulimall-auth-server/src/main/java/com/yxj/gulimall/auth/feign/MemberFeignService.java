@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @FeignClient("gulimall-member")
 public interface MemberFeignService {

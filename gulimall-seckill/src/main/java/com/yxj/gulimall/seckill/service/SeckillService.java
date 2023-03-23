@@ -6,7 +6,7 @@ import com.yxj.gulimall.seckill.to.SeckillSkuRedisTo;
 import java.util.List;
 
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 public interface SeckillService {
 

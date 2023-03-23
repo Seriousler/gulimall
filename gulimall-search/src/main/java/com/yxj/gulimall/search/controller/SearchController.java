@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 import javax.servlet.http.HttpServletRequest;
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Controller
 public class SearchController {

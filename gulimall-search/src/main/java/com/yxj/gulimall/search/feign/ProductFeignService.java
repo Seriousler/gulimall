@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @FeignClient("gulimall-product")
 public interface ProductFeignService {

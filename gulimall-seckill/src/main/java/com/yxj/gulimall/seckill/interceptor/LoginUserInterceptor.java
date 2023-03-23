@@ -14,7 +14,7 @@ import java.io.PrintWriter;
 import static com.yxj.gulimall.common.constant.AuthServerConstant.SESSION_LOGIN_KEY;
 
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Component
 public class LoginUserInterceptor implements HandlerInterceptor {

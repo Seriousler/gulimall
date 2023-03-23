@@ -1,7 +1,7 @@
 package com.yxj.gulimall.search.constant;
 
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 public class EsConstant {
     public static final String PRODUCT_INDEX = "gulimall_product"; //sku数据在es中的索引

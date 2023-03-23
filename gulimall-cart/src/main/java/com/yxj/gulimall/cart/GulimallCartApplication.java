@@ -9,7 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @EnableFeignClients
 @EnableDiscoveryClient

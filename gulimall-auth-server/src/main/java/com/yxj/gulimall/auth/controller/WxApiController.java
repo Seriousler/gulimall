@@ -21,7 +21,7 @@ import static com.yxj.gulimall.common.constant.AuthServerConstant.SESSION_LOGIN_
 
 
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Slf4j
 @Controller

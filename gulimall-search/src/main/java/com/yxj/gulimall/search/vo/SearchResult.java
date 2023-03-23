@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Data
 public class SearchResult {

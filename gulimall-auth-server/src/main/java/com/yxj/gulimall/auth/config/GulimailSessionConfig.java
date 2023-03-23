@@ -10,7 +10,7 @@ import org.springframework.session.web.http.DefaultCookieSerializer;
 /**
  * spu信息
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Configuration
 public class GulimailSessionConfig {

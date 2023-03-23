@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import java.util.List;
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Data
 public class SkuEsModel {

@@ -1,7 +1,7 @@
 package com.yxj.gulimall.common.valid;
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 public interface UpdateStatusGroup {
 }

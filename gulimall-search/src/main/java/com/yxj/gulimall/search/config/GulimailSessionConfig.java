@@ -7,7 +7,7 @@ import org.springframework.data.redis.serializer.RedisSerializer;
 import org.springframework.session.web.http.CookieSerializer;
 import org.springframework.session.web.http.DefaultCookieSerializer;
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Configuration
 public class GulimailSessionConfig {

@@ -13,7 +13,7 @@ import org.apache.commons.lang.StringUtils;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 public class SQLFilter {
 

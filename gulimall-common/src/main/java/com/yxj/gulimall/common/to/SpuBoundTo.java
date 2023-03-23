@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Data
 public class SpuBoundTo {

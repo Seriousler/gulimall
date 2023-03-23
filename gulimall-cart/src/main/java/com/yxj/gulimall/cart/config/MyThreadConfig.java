@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 @EnableConfigurationProperties(ThreadPoolConfigProperties.class)
 @Configuration

@@ -8,7 +8,7 @@ import org.springframework.session.web.http.CookieSerializer;
 import org.springframework.session.web.http.DefaultCookieSerializer;
 
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @Configuration
 public class GulimallSessionConfig {

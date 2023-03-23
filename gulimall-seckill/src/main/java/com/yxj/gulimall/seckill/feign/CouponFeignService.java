@@ -5,7 +5,7 @@ import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**
- * @author yaoxinjia
+ * @author zhanglong
  */
 @FeignClient("gulimall-coupon")
 public interface CouponFeignService {

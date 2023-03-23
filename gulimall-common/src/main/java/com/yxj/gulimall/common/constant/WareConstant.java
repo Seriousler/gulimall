@@ -2,7 +2,7 @@ package com.yxj.gulimall.common.constant;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 public class WareConstant {
     public enum PurchaseStatusEnum{

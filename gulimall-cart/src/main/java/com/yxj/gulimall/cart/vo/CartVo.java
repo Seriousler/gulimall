@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 public class CartVo {
 

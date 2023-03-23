@@ -32,7 +32,7 @@ import java.util.Map;
 
 /**
  *
- * @author yaoxinjia
+ * @author zhanglong
  */
 public class HttpUtils {
 
